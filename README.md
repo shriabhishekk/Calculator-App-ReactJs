@@ -1,5 +1,5 @@
 Tap on the link to open the calculator app
-[https://reactjs-calculator-app-web.netlify.app](url)
+https://reactjs-calculator-app-web.netlify.app
 
 # Getting Started with Create React App
 

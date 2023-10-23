@@ -1,3 +1,6 @@
+Tap on the link to open the calculator app
+[https://reactjs-calculator-app-web.netlify.app](url)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
